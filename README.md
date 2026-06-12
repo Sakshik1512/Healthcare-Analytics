@@ -1,1 +1,2 @@
 # Healthcare-Analytics
+HR Analytics project focused on analyzing employee data to identify attrition trends, improve retention strategies, and support data-driven HR decisions using Python, Excel, and Power BI.
